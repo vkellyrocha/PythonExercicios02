@@ -1,4 +1,4 @@
-'''Faça um programa que calcule o produto de dois números uZlizando a soma.'''
+'''Faça um programa que calcule o produto de dois números utlizando a soma.'''
 n = int(input('Número: '))
 p = int(input('Ele será multiplicado por: '))
 aux = n
